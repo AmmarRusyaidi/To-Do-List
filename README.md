@@ -1,0 +1,1 @@
+A simple app made using HTML, CSS and JavaScript that allows users to input text that contains a certain task that needs to be done for the day which will be displayed with other tasks. There is also a delete button besides it that the user can use once a task is completed.
